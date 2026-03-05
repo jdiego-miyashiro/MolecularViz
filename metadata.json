@@ -1,0 +1,5 @@
+{
+  "name": "Molecule Visualizer",
+  "description": "A lightweight 3D molecule viewer for chemical data files.",
+  "requestFramePermissions": []
+}
